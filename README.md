@@ -1,7 +1,7 @@
 
 
 
-# AZ-900 (updated for 27-Oct-2021 exam changes)
+# AZ-900 (updated June 2022)
 
 # Describe Cloud Concepts (20 - 25%)
 
