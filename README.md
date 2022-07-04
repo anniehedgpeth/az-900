@@ -83,6 +83,9 @@ Regardless of the type of deployment, the following responsibilities are always 
 | [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview) | Azure Resource Manager is the interface for managing and organizing cloud resources. Think of Resource Manager as a way to deploy cloud resources.|
 | [Azure resources](https://azure.microsoft.com/en-us/resources/) | Resources are any manageable item that is available through Azure. Virtual machines, storage accounts, web apps, databases, and virtual networks are examples of resources |
 
+### Management levels and hierarchy
+Azure provides four levels of management: management groups, subscriptions, resource groups, and resources. The following image shows the relationship between these levels. <br/><br/>![https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/media/organize-resources/scope-levels.png](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/media/organize-resources/scope-levels.png)
+
 ## Describe core resources available in Azure
 
 | Compute resources | Description |
