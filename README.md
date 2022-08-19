@@ -320,4 +320,8 @@ https://marczak.io/az-900/
 **Tim Warner** - AZ-900 Playlist (*This guy has some great material but is geared towards folks with less IT experience*.)
 https://www.youtube.com/watch?v=HfZ1kgHlrfg&list=PLYGZ9Q0oTOHfsI-3IAhvyc09ssPDfoePv
 
+[Microsoft Learning -  Microsoft Certified Trainer (MCT) lab for AZ-900](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)
+
+[Microsoft Learning - Microsoft Certified Trainer (MCT) labs for all exams](https://github.com/MicrosoftLearning/)
+
 
